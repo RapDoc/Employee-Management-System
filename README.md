@@ -66,6 +66,8 @@ GROUP BY First_Name
 HAVING COUNT(*) > 2;
 ```
 
+---
+
 ## 🚀 Getting Started
 Requirements
  - Oracle SQL environment (e.g., Oracle DB, SQL Developer)
@@ -77,8 +79,12 @@ Steps
 
  - Query the EMPLOYEE_DETAILS view or explore via the HR_PACKAGE.DESCRIBER.
 
+---
+
 ## 📁 File Contents
  - live-sql-demo.sql — Main SQL script containing schema creation, package definition, sample data insertion, and queries.
+
+---
 
 🧠 Learning Outcomes
  - Database schema design and normalization
