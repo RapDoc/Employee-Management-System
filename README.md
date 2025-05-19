@@ -64,3 +64,27 @@ SELECT First_Name, COUNT(*)
 FROM EMPLOYEE_DETAILS 
 GROUP BY First_Name 
 HAVING COUNT(*) > 2;
+```
+
+## 🚀 Getting Started
+Requirements
+ - Oracle SQL environment (e.g., Oracle DB, SQL Developer)
+
+Steps
+ - Run the SQL script in a clean schema.
+
+ - Execute the anonymous PL/SQL block to populate the database.
+
+ - Query the EMPLOYEE_DETAILS view or explore via the HR_PACKAGE.DESCRIBER.
+
+## 📁 File Contents
+ - live-sql-demo.sql — Main SQL script containing schema creation, package definition, sample data insertion, and queries.
+
+🧠 Learning Outcomes
+ - Database schema design and normalization
+
+ - Advanced PL/SQL (packages, triggers, error handling)
+
+ - Real-world modeling of HR systems
+
+ - SQL query optimization via indexing and views
