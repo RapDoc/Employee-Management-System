@@ -86,7 +86,7 @@ Steps
 
 ---
 
-🧠 Learning Outcomes
+## 🧠 Learning Outcomes
  - Database schema design and normalization
 
  - Advanced PL/SQL (packages, triggers, error handling)
